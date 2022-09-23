@@ -1,0 +1,40 @@
+main{
+  width: 40%;
+  background: rgb(33, 36, 33);
+  color: white;
+  text-align: center;
+  margin: 3rem auto;
+  height: 80vh;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1{
+  color: rgb(228, 168, 15);
+  padding-top: 1rem;
+  font-size: 4rem;
+  font-weight: 900;
+}
+p{
+  font-size: 2rem;
+  font-weight: 700;
+  color: whitesmoke;
+}
+#message-el{
+  font-style: italic;
+}
+button{
+  margin-top: 1rem;
+  /* padding-top: 1rem;
+  padding-bottom: 1rem; */
+}
+#start-game, #new-card{
+  color: #eff2f0;
+  width: 9.375rem;
+  height: 2rem;
+  background: goldenrod;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.25rem;
+  border-radius: 0.625rem;
+}
